@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,go,rust,py,aws&perline=11" alt="Header" />
   
-  <h1 align="center">Samsul Dwi Cahyo</h1>
+  <h1 align="center">Samsul Dwi Cahyo</h1>   
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=samsuldwicahyo&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Views" />
@@ -65,7 +65,7 @@ I thrive on solving complex problems and am constantly exploring modern technolo
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samsuldwicahyo&theme=radical&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samsuldwicahyo&theme=radical&no-bg=true&margin-w=20&margin-h=20" alt="trophy" />
 </div>
 
 ---
