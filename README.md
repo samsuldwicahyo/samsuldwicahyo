@@ -63,8 +63,12 @@ I thrive on solving complex problems and am constantly exploring modern technolo
   <img src="https://streak-stats.demolab.com?user=samsuldwicahyo&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-## 💡 Random Dev Quote
+---
+
+## 📊 Programming Focus
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsuldwicahyo&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </div>
 
