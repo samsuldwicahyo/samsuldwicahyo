@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,go,rust,py,aws&perline=11" alt="Header" />
   
-  <h1 align="center">Samsul Dwi Cahyo</h1>   
+  <h1 align="center">Samsul Dwi Cahyo</h1>  
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+To+My+GitHub+Profile+!;Let's+collaborate+and+learn+together!" alt="Typing SVG" />
+</div>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=samsuldwicahyo&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Views" />
@@ -28,9 +31,9 @@ I thrive on solving complex problems and am constantly exploring modern technolo
 <div align="left">
   <a href="https://discord.gg/samsuldwicahyo"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/samsuldwicahyo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/samsul-dwi-cahyo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/samsuldwicahyo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://tiktok.com/@whoxampp"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
-  <a href="https://youtube.com/@samsul-dwi-cahyo"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://youtube.com/@samsuldwicahyo"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="mailto:samsuldwicahyo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -55,12 +58,16 @@ I thrive on solving complex problems and am constantly exploring modern technolo
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsuldwicahyo&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsuldwicahyo&theme=tokyonight&layout=compact&hide_border=true" height="170" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=samsuldwicahyo&theme=tokyonight&hide_border=true" width="100%" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samsuldwicahyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsuldwicahyo&layout=compact&langs_count=8&theme=algolia&border_radius=10"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsuldwicahyo&theme=algolia&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -75,6 +82,7 @@ I thrive on solving complex problems and am constantly exploring modern technolo
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
 </div>
+
 ---
 
 ### 🐍 Contribution Journey
